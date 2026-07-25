@@ -1,0 +1,1 @@
+dotnet add package Auth0.OidcClient.MAUI
